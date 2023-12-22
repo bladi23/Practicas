@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Matriz {
     public static void main(String[] args) {
+        System.out.println("Hola mundo hola a todos");
         Scanner teclado = new Scanner(System.in);
                 System.out.println("Ingrese los elementos de la matriz 3x3:");
 
@@ -22,3 +23,4 @@ public class Matriz {
         }
     }
 }
+    
